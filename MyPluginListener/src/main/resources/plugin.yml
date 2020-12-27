@@ -1,0 +1,4 @@
+name: MyPluginListener
+version: ${project.version}
+main: nani.my.My
+api-version: 1.16
